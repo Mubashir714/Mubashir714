@@ -1,4 +1,7 @@
-<h1>- 👋 Hi, I’m @Mubashir714<h1/>
+<h1>Greetings</h1>
+<hr>
+<p> My self Muhammad Mubashir AI enthusiastic</P>
+
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning competitive coding
 - 💞️ I’m looking to collaborate on any kind of javascript open source projects.
