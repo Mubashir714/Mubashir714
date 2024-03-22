@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mubashir714
+<h1>- 👋 Hi, I’m @Mubashir714<h1/>
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning competitive coding
 - 💞️ I’m looking to collaborate on any kind of javascript open source projects.
