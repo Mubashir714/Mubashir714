@@ -71,9 +71,9 @@ I'm Muhammad Mubashir, a recent graduate with a Bachelor of Science in Computer 
 
 **Certifications**
 
-* Section Leader Mentor, Stanford Code in Place
-* Harvard CS50x Puzzle Day 2024
-* Meta Hacker Cup 2024 Participant
+* Section Leader Mentor, Stanford Code in Place [see here](https://digitalcredential.stanford.edu/check/B917B3450F44F4F84E84FD5A62A5BB8AB64A1712026C1D4BC3C44867D4A30F06SXhVeUg4WUE4TFdpdzYyZlpGeUsrZ2pBaTNUUzZpWVVzdExBUGgyWEFsajJQV3Bl)
+* Harvard CS50x Puzzle Day 2024 [see here](https://drive.google.com/file/d/1zQhgjEqkLiD5o8OMRTOZ2Arpkau2Fydi/view?usp=sharing)
+* Meta Hacker Cup 2023 Participant [see here](https://drive.google.com/file/d/1aVv9AVd2T9FnqYp0s1IQua65p4S5rleS/view?usp=drive_link)
 
 ---
 
@@ -87,7 +87,7 @@ I'm Muhammad Mubashir, a recent graduate with a Bachelor of Science in Computer 
 
 ---
 
-**Social Media**
+**Connect via**
 
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mianmubashir105/)
 * **Email:** [Email](mianmubashir105@gmail.com)
@@ -95,4 +95,4 @@ I'm Muhammad Mubashir, a recent graduate with a Bachelor of Science in Computer 
 
 **Speaking Engagements**
 
-* Delivered a workshop on the Vectara unhallucination evaluation model [see here] ([details optional](https://www.youtube.com/watch?v=Vp7ul2UcAPU))
+* Delivered a workshop on the Vectara unhallucination evaluation model [see here]([details optional](https://www.youtube.com/watch?v=Vp7ul2UcAPU))
