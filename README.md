@@ -59,10 +59,10 @@ I'm Muhammad Mubashir, a recent graduate with a Bachelor of Science in Computer 
 
 **Social Media**
 <hr>
-* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mianmubashir105/)
-* **Email:** [Email](mianmubashir105@gmail.com)
+ **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mianmubashir105/)
+ **Email:** [Email](mianmubashir105@gmail.com)
 
 **Speaking Engagements**
 <hr>
-* Delivered a workshop on the Vectara Hallucination Evaluation Model [See Here] (https://www.youtube.com/watch?v=Vp7ul2UcAPU))
+* Delivered a workshop on the Vectara Hallucination Evaluation Model [See Here](https://www.youtube.com/watch?v=Vp7ul2UcAPU)
 
