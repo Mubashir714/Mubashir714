@@ -1,6 +1,6 @@
 **Muhammad Mubashir Hassan**
 
-
+[Insert your profile picture here (optional)]
 
 **About Me**
 
@@ -60,11 +60,13 @@ I'm Muhammad Mubashir, a recent graduate with a Bachelor of Science in Computer 
 
 **Social Media**
 
-* LinkedIn: [https://www.linkedin.com/in/mianmubashir105/](https://www.linkedin.com/in/mianmubashir105/)
+* **LinkedIn:** [https://www.linkedin.com/in/mianmubashir105/](https://www.linkedin.com/in/mianmubashir105/)
 
 **Speaking Engagements**
 
 * Delivered a workshop on the Vectara unhallucination evaluation model (details optional)
+
+---
 
 **Additional Notes**
 
