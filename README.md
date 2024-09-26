@@ -66,12 +66,11 @@ I'm Muhammad Mubashir, a recent graduate with a Bachelor of Science in Computer 
 * Empowered Innovation: Provided technical guidance to integrate external functionalities into projects.
 * Championed Excellence: Evaluated presentations, projects, and code to select top submissions.
 ---
-**Connect via**
+**Let's Connect**
 
-* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mianmubashir105/)
-* **Email:** [Email](mianmubashir105@gmail.com)
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mianmubashir105/) **Email:** [Email](mianmubashir105@gmail.com)
 ---
 **Speaking Engagements**
 
-* Delivered a workshop on the Vectara unhallucination evaluation model[see here](https://www.youtube.com/watch?v=Vp7ul2UcAPU))
-* Delivered a Workshop on CS50x Puzzle Day 2024[see here](https://www.youtube.com/watch?v=poQWSJuOPSc)
+* Delivered a workshop on the Vectara unhallucination evaluation model [see here](https://www.youtube.com/watch?v=Vp7ul2UcAPU))
+* Delivered a Workshop on CS50x Puzzle Day 2024 [see here](https://www.youtube.com/watch?v=poQWSJuOPSc)
