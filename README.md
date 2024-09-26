@@ -44,33 +44,31 @@ I'm Muhammad Mubashir, a recent graduate with a Bachelor of Science in Computer 
   * ⚛️ React.js 
   * 🌐 Node.js 
   * 🐳 Docker
-* **Databases:** 
-  * MongoDB 
+**Databases:** 
+  * MongoDB
   * Vectara
 ---
-**Education**
-
-* Bachelor of Science in Computer Science BSCS, GCUF
+**Education:** 
+* Bachelor of Science in Computer Science, GCUF
 ---
-**Certifications**
-
-* Section Leader Mentor, Stanford Code in Place [see here](https://digitalcredential.stanford.edu/check/B917B3450F44F4F84E84FD5A62A5BB8AB64A1712026C1D4BC3C44867D4A30F06SXhVeUg4WUE4TFdpdzYyZlpGeUsrZ2pBaTNUUzZpWVVzdExBUGgyWEFsajJQV3Bl)
-* Harvard CS50x Puzzle Day 2024 [see here](https://drive.google.com/file/d/1zQhgjEqkLiD5o8OMRTOZ2Arpkau2Fydi/view?usp=sharing)
-* Meta Hacker Cup 2023 Participant [see here](https://drive.google.com/file/d/1aVv9AVd2T9FnqYp0s1IQua65p4S5rleS/view?usp=drive_link)
+**Certifications:** 
+* Section Leader Mentor, Stanford Code in Place [(_see here_)](https://digitalcredential.stanford.edu/check/B917B3450F44F4F84E84FD5A62A5BB8AB64A1712026C1D4BC3C44867D4A30F06SXhVeUg4WUE4TFdpdzYyZlpGeUsrZ2pBaTNUUzZpWVVzdExBUGgyWEFsajJQV3Bl)
+* Harvard CS50x Puzzle Day 2024 [_(see here)_](https://drive.google.com/file/d/1zQhgjEqkLiD5o8OMRTOZ2Arpkau2Fydi/view?usp=sharing)
+* Meta Hacker Cup 2023 Participant [_(see here)_](https://drive.google.com/file/d/1aVv9AVd2T9FnqYp0s1IQua65p4S5rleS/view?usp=drive_link)
 ---
-**Experience**
-
+**Experience:** 
 **Lablab.ai - Business & Tech Mentor**
 
 * Facilitated Team Formation: Successfully created diverse and effective teams for hackathons.
 * Empowered Innovation: Provided technical guidance to integrate external functionalities into projects.
 * Championed Excellence: Evaluated presentations, projects, and code to select top submissions.
+
 ---
 **Let's Connect**
 
-* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mianmubashir105/) **Email:** [Email](mianmubashir105@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/mianmubashir105/) [✉️ Email](mianmubashir105@gmail.com)
 ---
-**Speaking Engagements**
+**Speaking Engagements:** 
 
-* Delivered a workshop on the Vectara unhallucination evaluation model [see here](https://www.youtube.com/watch?v=Vp7ul2UcAPU))
-* Delivered a Workshop on CS50x Puzzle Day 2024 [see here](https://www.youtube.com/watch?v=poQWSJuOPSc)
+* Delivered a workshop on the Vectara unhallucination evaluation model [_(see here_)](https://www.youtube.com/watch?v=Vp7ul2UcAPU))
+* Delivered a Workshop on CS50x Puzzle Day 2024 [_(see here)_](https://www.youtube.com/watch?v=poQWSJuOPSc)
