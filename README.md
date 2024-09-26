@@ -27,8 +27,8 @@ I'm Muhammad Mubashir, a recent graduate with a Bachelor of Science in Computer 
 ---
 **Achievements**
 
-* **🏆 Winner, UN World Innovation Day Hackathon 2023 (Organized by Hackmaker):** [Link](https://drive.google.com/file/d/1t1DOnjvCNMF47nEQ6i02WjAvjYu0wNPT/view?usp=sharing)
-* **🎓 Section Leader (Mentor), Stanford Code in Place 2024:** [Link](https://digitalcredential.stanford.edu/check/B917B3450F44F4F84E84FD5A62A5BB8AB64A1712026C1D4BC3C44867D4A30F06SXhVeUg4WUE4TFdpdzYyZlpGeUsrZ2pBaTNUUzZpWVVzdExBUGgyWEFsajJQV3Bl)
+* **🏆 Winner, UN World Innovation Day Hackathon 2023 (Organized by Hackmaker):** [_(Link_)](https://drive.google.com/file/d/1t1DOnjvCNMF47nEQ6i02WjAvjYu0wNPT/view?usp=sharing)
+* **🎓 Section Leader (Mentor), Stanford Code in Place 2024:** [_(Link)_](https://digitalcredential.stanford.edu/check/B917B3450F44F4F84E84FD5A62A5BB8AB64A1712026C1D4BC3C44867D4A30F06SXhVeUg4WUE4TFdpdzYyZlpGeUsrZ2pBaTNUUzZpWVVzdExBUGgyWEFsajJQV3Bl)
 * **🥇 Top LeetCode Problem Solver:** Solved over 150+ Data Structure and Algorithm problems.
 * **🏅 Farewell Google Code Jam 2023:** Secured 6th position in Pakistan
 * **🎖️ Meta Hacker Cup 2024:** Qualified for Round 1 (Prestigious coding competition)
@@ -70,5 +70,5 @@ I'm Muhammad Mubashir, a recent graduate with a Bachelor of Science in Computer 
 ---
 **Speaking Engagements:** 
 
-* Delivered a workshop on the Vectara unhallucination evaluation model [_(see here_)](https://www.youtube.com/watch?v=Vp7ul2UcAPU))
+* Delivered a workshop on the Vectara unhallucination evaluation model [_(see here_)](https://www.youtube.com/watch?v=Vp7ul2UcAPU)
 * Delivered a Workshop on CS50x Puzzle Day 2024 [_(see here)_](https://www.youtube.com/watch?v=poQWSJuOPSc)
