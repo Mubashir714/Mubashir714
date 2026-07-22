@@ -125,7 +125,7 @@ CGPA: 3.44 / 4.00
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/Mubashir714/NeuroScan-AI-Brain-Tumor-Detection">
-<img src="https://opengraph.githubassets.com/1/Mubashir714/NeuroScan-AI-Brain-Tumor-Detection" width="100%"/>
+<img src="./assets/images/NeuroScan.png" width="100%"/>
 </a>
 
 **🧠 [NeuroScanAI — Brain Tumor Detection](https://github.com/Mubashir714/NeuroScan-AI-Brain-Tumor-Detection)**
@@ -136,7 +136,7 @@ Custom + MobileNet MRI classifier — **98% validation accuracy** — with Grad-
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/Mubashir714/RedAGPT">
-<img src="https://opengraph.githubassets.com/1/Mubashir714/RedAGPT" width="100%"/>
+<img src="./assets/images/RedAGPT.png" width="100%"/>
 </a>
 
 **🤖 [RedAGPT — Autonomous Vulnerability Assessment](https://github.com/Mubashir714/RedAGPT)**
@@ -149,7 +149,7 @@ AI framework for autonomous vulnerability assessment, built at the LangChain × 
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/Mubashir714/Dynamic_Data_Perception_with_Visualization.ipynb">
-<img src="https://opengraph.githubassets.com/1/Mubashir714/Dynamic_Data_Perception_with_Visualization.ipynb" width="100%"/>
+<img src="./assets/images/DynPercept.png" width="100%"/>
 </a>
 
 **👁️ [DynPercept](https://github.com/Mubashir714/Dynamic_Data_Perception_with_Visualization.ipynb)**
@@ -159,19 +159,19 @@ Reproducible experiment comparing static vs. dynamic visual encodings for angle 
 </td>
 <td width="50%" valign="top" align="center">
 
-<a href="https://github.com/Mubashir714/Smart-CPM-Parser">
-<img src="https://opengraph.githubassets.com/1/Mubashir714/Smart-CPM-Parser" width="100%"/>
+<a href="https://github.com/Mubashir714/EquiDonate">
+<img src="./assets/images/Equidonate.png" width="100%"/>
 </a>
 
-**📦 [Smart CPM Parser](https://github.com/Mubashir714/Smart-CPM-Parser)**
-`Python` `Flask` `Bootstrap`
-Final Year Project — automates cargo EDI message processing with real-time logs and data visualization.
+**🤝 [EquiDonate (VerifAid)](https://github.com/Mubashir714/EquiDonate)**
+`Oracle Apex` `SQL`
+Donation management system built at the UN World Innovation Day Hackathon — helps NGOs securely manage donor request data.
 
 </td>
 </tr>
 </table>
 
-> Two more projects from my CV — **Efficient CLIP Distillation** and **LabPilot-AI** — aren't linked yet since I don't have confirmed repo URLs for them. Send those over and I'll slot them in with the same layout.
+> **Efficient CLIP Distillation** and **LabPilot-AI** aren't linked yet since I don't have confirmed repo URLs for them. Send those over and I'll slot them in with the same layout.
 
 <br/>
 
