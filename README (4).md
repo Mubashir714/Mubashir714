@@ -20,7 +20,7 @@
 
 ## About
 
-I'm a Computer Science graduate (BS, Government College University Faisalabad, 2023) working across **Generative AI, applied Machine Learning, and cybersecurity**, building agentic RAG systems, training and interpreting deep learning models, and reviewing/presenting research at international venues. I also teach computational thinking and Python to a global student audience.
+I'm a Computer Science graduate (BS, Government College University Faisalabad, 2023) working across **Generative AI, applied Machine Learning, and cybersecurity** — building agentic RAG systems, training and interpreting deep learning models, and reviewing/presenting research at international venues. I also teach computational thinking and Python to a global student audience.
 
 My work sits at the intersection of **research and engineering**: this profile is split below into an academic track (service, talks, teaching) and a technical track (skills, projects) since I'm using it for both industry roles and funded PhD applications.
 
@@ -31,22 +31,22 @@ My work sits at the intersection of **research and engineering**: this profile i
 <table>
 <tr><td width="70%">
 
-**Technical Reviewer**, 34th Int'l ACM UMAP Conference, Sweden *(2026)*
-Reviewed research papers on smart home personalization and conversational AI benchmarking; evaluated methodology, SOTA comparisons, and ablation studies.
+**Technical Reviewer** — 34th Int'l ACM UMAP Conference, Sweden *(2026)*
+Reviewed research on smart home personalization and conversational AI benchmarking; evaluated methodology, SOTA comparisons, and ablation studies.
 
-**Virtual Keynote Speaker**, ICCASD-26, Switzerland *(2026)*
-Delivered a keynote Speech on GenAI's role in cybersecurity and secure software development.
+**Virtual Keynote Speaker** — ICCASD-26, Switzerland *(2026)*
+Delivered a keynote on GenAI's role in cybersecurity and secure software development.
 
-**Section Leader**, Stanford Code in Place *(2024–2026, 3x cohort trainer)*
-Taught Stanford's CS106A Python course. Console/graphics programming, control flow to a global student cohort.
+**Section Leader** — Stanford Code in Place *(2025–2026, 3x cohort trainer)*
+Taught Stanford's CS106A Python course — console/graphics programming, control flow — to a global student cohort.
 
-**Course Trainer / Manager**, iCodeGuru, Silicon Valley *(2024–Present)*
-Teaching DSA & OOP in Python to underrepresented students, organized 50+ webinars on global CS competitions across 20+ Pakistani universities.
+**Course Trainer / Manager** — iCodeGuru, Silicon Valley *(2024–Present)*
+Teaching DSA & OOP in Python to underrepresented students; organized 50+ webinars on global CS competitions across 20+ Pakistani universities.
 
-**Technical Mentor**, Lablab.ai, Sweden *(2023–2024)*
+**Technical Mentor** — Lablab.ai, Sweden *(2023–2024)*
 Mentored and evaluated hackathon project submissions for over a year.
 
-**Judge & Mentor**, 20+ international hackathons
+**Judge & Mentor** — 20+ international hackathons
 
 </td><td width="30%" valign="top">
 
@@ -74,15 +74,15 @@ CGPA: 3.44 / 4.00
 <table>
 <tr>
 <td>🥇 Winner — <b>UN World Innovation Day Hackathon 2023</b> (Hackmaker)</td>
-<td>🥈 6th Place, Pakistan <b>Google Code Jam 2023</b></td>
+<td>🥈 6th Place, Pakistan — <b>Google Code Jam 2023</b></td>
 </tr>
 <tr>
-<td>🚀 Qualified Round 2 <b>Meta Hacker Cup 2025</b></td>
-<td>🌍 Ranked 357th worldwide <b>UC Berkeley Calico 2024</b></td>
+<td>🚀 Qualified Round 2 — <b>Meta Hacker Cup 2025</b></td>
+<td>🌍 Ranked 357th worldwide — <b>UC Berkeley Calico 2024</b></td>
 </tr>
 <tr>
-<td>🧩 Ranked 129th globally <b>MIT Winter Contest</b> (7/9 solved)</td>
-
+<td>🧩 Ranked 129th globally — <b>MIT Winter Contest</b> (7/9 solved)</td>
+<td>🗣️ 120/120 — <b>Duolingo English Test</b> (IELTS 6.5 equiv.)</td>
 </tr>
 </table>
 
@@ -90,7 +90,7 @@ CGPA: 3.44 / 4.00
 
 ## 💻 Technical Profile
 
-**Experience:** GenAI Instructor @ Pak Angles *(Jan–Feb 2025)* . Designed a GenAI curriculum, taught 1000+ students on LLM fine-tuning, and built an agentic RAG pipeline with LangChain + Sentence-Transformers.
+**Experience:** GenAI Instructor @ Pak Angles *(Jan–Feb 2025)* — designed a GenAI curriculum, taught 1000+ students on LLM fine-tuning, and built an agentic RAG pipeline with LangChain + Sentence-Transformers.
 
 <br/>
 
@@ -126,7 +126,7 @@ CGPA: 3.44 / 4.00
 
 **🧠 [NeuroScanAI — Brain Tumor Detection](https://github.com/Mubashir714/NeuroScan-AI-Brain-Tumor-Detection)**
 `PyTorch` `MobileNet` `CNN` `Grad-CAM`
-Custom + MobileNet MRI classifier, **98% validation accuracy** with Grad-CAM explainability for clinical interpretability.
+Custom + MobileNet MRI classifier — **98% validation accuracy** — with Grad-CAM explainability for clinical interpretability.
 
 </td>
 <td width="50%" valign="top">
@@ -149,12 +149,13 @@ Reproducible experiment comparing static vs. dynamic visual encodings for angle 
 
 **📦 [Smart CPM Parser](https://github.com/Mubashir714/Smart-CPM-Parser)**
 `Python` `Flask` `Bootstrap`
-Final Year Project, automates cargo EDI message processing with real-time logs and data visualization.
+Final Year Project — automates cargo EDI message processing with real-time logs and data visualization.
 
 </td>
 </tr>
 </table>
 
+> Two more projects from my CV — **Efficient CLIP Distillation** and **LabPilot-AI** — aren't linked yet since I don't have confirmed repo URLs for them. Send those over and I'll slot them in with the same layout.
 
 <br/>
 
@@ -163,15 +164,11 @@ Final Year Project, automates cargo EDI message processing with real-time logs a
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mubashir714&show_icons=true&hide_border=true&bg_color=0A0E27&title_color=00D9FF&icon_color=00D9FF&text_color=8FD8F5&border_color=00344D&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir714&layout=compact&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=8FD8F5&border_color=00344D" width="35%" />
+<img src="./assets/metrics.svg" width="35%" />
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mubashir714&hide_border=true&background=0A0E27&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=8FD8F5&currStreakNum=EAF6FF&sideNums=EAF6FF&dates=6C93AF" width="60%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mubashir714&theme=algolia&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -179,25 +176,7 @@ Final Year Project, automates cargo EDI message processing with real-time logs a
 
 ## 📌 Pinned Repositories
 
-<div align="center">
-
-<a href="https://github.com/Mubashir714/NeuroScan-AI-Brain-Tumor-Detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir714&repo=NeuroScan-AI-Brain-Tumor-Detection&hide_border=true&bg_color=0A0E27&title_color=00D9FF&icon_color=00D9FF&text_color=8FD8F5&border_color=00344D" />
-</a>
-<a href="https://github.com/Mubashir714/RedAGPT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir714&repo=RedAGPT&hide_border=true&bg_color=0A0E27&title_color=00D9FF&icon_color=00D9FF&text_color=8FD8F5&border_color=00344D" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Mubashir714/Smart-CPM-Parser">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir714&repo=Smart-CPM-Parser&hide_border=true&bg_color=0A0E27&title_color=00D9FF&icon_color=00D9FF&text_color=8FD8F5&border_color=00344D" />
-</a>
-<a href="https://github.com/Mubashir714/Dynamic_Data_Perception_with_Visualization.ipynb">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir714&repo=Dynamic_Data_Perception_with_Visualization.ipynb&hide_border=true&bg_color=0A0E27&title_color=00D9FF&icon_color=00D9FF&text_color=8FD8F5&border_color=00344D" />
-</a>
-
-</div>
+My top repositories are pinned natively on my profile (see the "Pinned" section on [github.com/Mubashir714](https://github.com/Mubashir714)) — set once via **Profile → Customize your pins**, so it always works with zero external dependencies.
 
 <br/>
 
@@ -210,7 +189,7 @@ Final Year Project, automates cargo EDI message processing with real-time logs a
 [![Email](https://img.shields.io/badge/-Email-0A0E27?style=flat-square&logo=gmail&logoColor=00D9FF)](mailto:mianmubashir105@gmail.com)
 [![YouTube](https://img.shields.io/badge/-YouTube-0A0E27?style=flat-square&logo=youtube&logoColor=00D9FF)](https://www.youtube.com/@Mubashir105)
 
-Open to: **GenAI/ML Engineering roles** · **Funded MS/PhD positions** · **Research collaborations** · **Technical speaking**
+Open to: **GenAI/ML Engineering roles** · **Funded PhD positions** · **Research collaborations** · **Technical speaking**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00344D,100:0A0E27&height=100&section=footer" width="100%"/>
 
