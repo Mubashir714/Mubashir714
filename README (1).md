@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0E27?style=flat-square&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/mianmubashir105/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E27?style=flat-square&logo=linkedin&logoColor=00D9FF&labelColor=0A0E27)](https://www.linkedin.com/in/mianmubashir105/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0A0E27?style=flat-square&logo=googlechrome&logoColor=00D9FF)](https://mubashir714.github.io/)
 [![Email](https://img.shields.io/badge/-Email-0A0E27?style=flat-square&logo=gmail&logoColor=00D9FF)](mailto:mianmubashir105@gmail.com)
 [![YouTube](https://img.shields.io/badge/-YouTube-0A0E27?style=flat-square&logo=youtube&logoColor=00D9FF)](https://www.youtube.com/@Mubashir105)
@@ -109,7 +109,13 @@ CGPA: 3.44 / 4.00
 
 **Databases & Vector Stores**
 
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />   `Pinecone` `Vectara` `MondoDB`
+[![MongoDB](https://img.shields.io/badge/-MongoDB-0A0E27?style=flat-square&logo=mongodb&logoColor=00D9FF)]()
+[![Pinecone](https://img.shields.io/badge/Pinecone-0A0E27?style=flat-square&color=0A0E27&labelColor=0A0E27)]()
+[![Vectara](https://img.shields.io/badge/Vectara-0A0E27?style=flat-square&color=0A0E27&labelColor=0A0E27)]()
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />   [![Jupyter](https://img.shields.io/badge/-Jupyter-0A0E27?style=flat-square&logo=jupyter&logoColor=00D9FF)]()
 
 **Tools & Platforms**
 
@@ -174,7 +180,19 @@ Donation management system built at the UN World Innovation Day Hackathon helps 
 
 ## 📊 GitHub Analytics
 
+
+## 📊 GitHub Analytics
+
 <div align="center">
+
+<img src="./assets/metrics.svg" width="90%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mubashir714&hide_border=true&background=0A0E27&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=8FD8F5&currStreakNum=EAF6FF&sideNums=EAF6FF&dates=6C93AF" width="60%" />
+
+</div>
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mubashir714&show_icons=true&hide_border=true&bg_color=0A0E27&title_color=00D9FF&icon_color=00D9FF&text_color=8FD8F5&border_color=00344D&count_private=true" width="48%" />
 <img src="./assets/metrics.svg" width="35%" />
@@ -183,7 +201,7 @@ Donation management system built at the UN World Innovation Day Hackathon helps 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mubashir714&hide_border=true&background=0A0E27&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=8FD8F5&currStreakNum=EAF6FF&sideNums=EAF6FF&dates=6C93AF" width="60%" />
 
-</div>
+</div> -->
 
 <br/>
 
