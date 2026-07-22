@@ -116,7 +116,7 @@ CGPA: 3.44 / 4.00
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,bitbucket,pycharm&theme=dark" /> [![Jupyter](https://img.shields.io/badge/-Jupyter-0A0E27?style=flat-square&logo=jupyter&logoColor=00D9FF)]()
+<img src="https://skillicons.dev/icons?i=git,github,vscode,Jupyter,bitbucket,pycharm&theme=dark" /> [![Jupyter](https://img.shields.io/badge/-Jupyter-0A0E27?style=flat-square&logo=jupyter&logoColor=00D9FF)]()
 
 <br/>
 
@@ -210,7 +210,7 @@ My top repositories are pinned natively on my profile (see the "Pinned" section 
 
 ### 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0E27?style=flat-square&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/mianmubashir105/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0E27?style=flat-square&logo=linkedin&logoColor=00D9FF&v=2)](https://www.linkedin.com/in/mianmubashir105/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0A0E27?style=flat-square&logo=googlechrome&logoColor=00D9FF)](https://mubashir714.github.io/)
 [![Email](https://img.shields.io/badge/-Email-0A0E27?style=flat-square&logo=gmail&logoColor=00D9FF)](mailto:mianmubashir105@gmail.com)
 [![YouTube](https://img.shields.io/badge/-YouTube-0A0E27?style=flat-square&logo=youtube&logoColor=00D9FF)](https://www.youtube.com/@Mubashir105)
