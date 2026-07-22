@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E27?style=flat-square&logo=linkedin&logoColor=00D9FF&labelColor=0A0E27)](https://www.linkedin.com/in/mianmubashir105/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0E27?style=flat-square&logo=linkedin&logoColor=00D9FF&v=2)](https://www.linkedin.com/in/mianmubashir105/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0A0E27?style=flat-square&logo=googlechrome&logoColor=00D9FF)](https://mubashir714.github.io/)
 [![Email](https://img.shields.io/badge/-Email-0A0E27?style=flat-square&logo=gmail&logoColor=00D9FF)](mailto:mianmubashir105@gmail.com)
 [![YouTube](https://img.shields.io/badge/-YouTube-0A0E27?style=flat-square&logo=youtube&logoColor=00D9FF)](https://www.youtube.com/@Mubashir105)
@@ -31,14 +31,14 @@ My work sits at the intersection of **research and engineering**: this profile i
 <table>
 <tr><td width="70%">
 
-**Technical Reviewer** — 34th Int'l ACM UMAP Conference, Sweden *(2026)*
+**Technical Reviewer** 34th Int'l ACM UMAP Conference, Sweden *(2026)*
 Reviewed research papers on smart home personalization and conversational AI benchmarking; evaluated methodology, SOTA comparisons, and ablation studies.
 
 **Virtual Keynote Speaker** ICCASD-26, Switzerland *(2026)*
 Delivered a keynote on GenAI's role in cybersecurity and secure software development.
 
 **Section Leader** Stanford Code in Place *(2024–2026, 3x cohort trainer)*
-Taught Stanford's CS106A Python course console/graphics programming, control flow — to a global student cohort.
+Taught Stanford's CS106A Python course console/graphics programming and control flow to a global student cohort.
 
 **Course Trainer / Manager** iCodeGuru, Silicon Valley *(2024–Present)*
 Teaching DSA & OOP in Python to underrepresented students; organized 50+ webinars on global CS competitions across 20+ Pakistani universities.
@@ -101,7 +101,7 @@ CGPA: 3.44 / 4.00
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
 
-**GenAI / LLMs**   `LangChain` `LlamaIndex` `AutoGen` `Sentence-Transformers` `OpenAI API`
+**GenAI / LLMs**   `LangChain` `LlamaIndex` `AutoGen` `Sentence-Transformers` `OpenAI API` `Hugging Face.`
 
 **Web**
 
@@ -109,17 +109,14 @@ CGPA: 3.44 / 4.00
 
 **Databases & Vector Stores**
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-0A0E27?style=flat-square&logo=mongodb&logoColor=00D9FF)]()
-[![Pinecone](https://img.shields.io/badge/Pinecone-0A0E27?style=flat-square&color=0A0E27&labelColor=0A0E27)]()
-[![Vectara](https://img.shields.io/badge/Vectara-0A0E27?style=flat-square&color=0A0E27&labelColor=0A0E27)]()
+[![MongoDB](https://img.shields.io/badge/-MongoDB-0A0E27?style=flat-square&logo=mongodb&logoColor=00D9FF&v=2)]()
+[![Pinecone](https://img.shields.io/badge/-Pinecone-0A0E27?style=flat-square&v=2)]()
+[![Vectara](https://img.shields.io/badge/-Vectara-0A0E27?style=flat-square&v=2)]()
+
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />   [![Jupyter](https://img.shields.io/badge/-Jupyter-0A0E27?style=flat-square&logo=jupyter&logoColor=00D9FF)]()
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,bitbucket,pycharm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,bitbucket,pycharm&theme=dark" /> [![Jupyter](https://img.shields.io/badge/-Jupyter-0A0E27?style=flat-square&logo=jupyter&logoColor=00D9FF)]()
 
 <br/>
 
@@ -178,8 +175,6 @@ Donation management system built at the UN World Innovation Day Hackathon helps 
 
 <br/>
 
-## 📊 GitHub Analytics
-
 
 ## 📊 GitHub Analytics
 
@@ -207,7 +202,7 @@ Donation management system built at the UN World Innovation Day Hackathon helps 
 
 ## 📌 Pinned Repositories
 
-My top repositories are pinned natively on my profile (see the "Pinned" section on [github.com/Mubashir714](https://github.com/Mubashir714)) — set once via **Profile → Customize your pins**, so it always works with zero external dependencies.
+My top repositories are pinned natively on my profile (see the "Pinned" section on [github.com/Mubashir714](https://github.com/Mubashir714) and set once via **Profile → Customize your pins**, so it always works with zero external dependencies.
 
 <br/>
 
