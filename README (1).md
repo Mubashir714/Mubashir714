@@ -116,7 +116,7 @@ CGPA: 3.44 / 4.00
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,Jupyter,bitbucket,pycharm&theme=dark" /> [![Jupyter](https://img.shields.io/badge/-Jupyter-0A0E27?style=flat-square&logo=jupyter&logoColor=00D9FF)]()
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bitbucket,pycharm&theme=dark" /> [![Jupyter](https://img.shields.io/badge/-Jupyter-0A0E27?style=flat-square&logo=jupyter&logoColor=00D9FF)]()
 
 <br/>
 
